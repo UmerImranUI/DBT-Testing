@@ -1,0 +1,1 @@
+Select  vin, created from fleet-scout-294817.OutboundSales_Int._stg_appraisals 
